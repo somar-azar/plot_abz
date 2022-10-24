@@ -6,10 +6,8 @@ dependencies:
   - matplotlib
   - jupyter
   - pandas
-  - nb_conda_kernels
+  - nb_conda_kernelsbn
   - ipympl
-  - ipyfilechooser
   - xlwt
   - scikit-learn
-  - mscorefonts
 prefix: /opt/homebrew/anaconda3/envs/plot_abz
